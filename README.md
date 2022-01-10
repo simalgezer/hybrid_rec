@@ -2,6 +2,7 @@
 Recommending a movie with user-based and item-based recommendations 
 
 How does user-based recommendation work? a user-based recommendation suggests movies to a user by finding similar users’ watched movies.
+
 How does item-based recommendation work? an item-based recommendation is made based on the similarity between items — in this case, movie similarity — calculated using people’s ratings of that item. For example, Sarah rated a movie 5 out of 5. Then item-based recommendation suggests other movies that are exposed to similar rating behavior to Sarah’s rating.
 
 
