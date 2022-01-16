@@ -11,9 +11,11 @@ Make a movie recommendation for the user whose ID is given, using the item-based
 The dataset: It was provided by MovieLens, a movie recommendation service. It contains the rating scores for these movies along with the movies. It contains 2,000,0263 ratings across 27,278 movies. The dataset was created by 138,493 users between 09 January 1995 and 31 March 2015. The dataset was created on October 17, 2016. Users are randomly selected. It is known that all selected users voted for at least 20 movies.
 
 Variables:
+
 movie.csv
 1. movieId — Unique movie number. (UniqueID)
 2. title — Movie name
+
 rating.csv
 1. userid — Unique user number. (UniqueID)
 2. movieId — Unique movie number. (UniqueID)
